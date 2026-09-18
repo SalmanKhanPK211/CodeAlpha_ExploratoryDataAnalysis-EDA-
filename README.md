@@ -137,7 +137,7 @@ CodeAlpha_DataAnalysisEDA/
 Clone the repository:
 
 ```bash
-git clone https://github.com/SalmanKhanPK211/CodeAlpha_DataAnalysisEDA.git
+git clone https://github.com/SalmanKhanPK211/CodeAlpha_ExploratoryDataAnalysis-EDA-.git
 ```
 
 Move into the project directory:
